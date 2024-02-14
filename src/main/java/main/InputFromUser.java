@@ -14,6 +14,7 @@ public class InputFromUser {
                 list.add(i);
 
             }
+
             System.out.println(list);
             sc.close();
         }
